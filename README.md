@@ -1,4 +1,7 @@
 # Club-Recommendation-Tool
+
+演示视频下载地址：
+
 https://disk.pku.edu.cn/link/ARCFF84EA1F81E41A79FA7FB2BA328EC23
 
 文件名：89-演示.mp4
